@@ -3,7 +3,11 @@ package hu.bme.mit.spaceship;
 import java.util.Random;
 
 /**
-* Class storing and managing the torpedoes of a shipss
+<<<<<<< HEAD
+* Class storing and managing the torpedoes of a ships
+=======
+* Class storing and managing the torpedoes of a ships
+>>>>>>> branch-B
 *
 * (Deliberately contains bugs.)
 */
